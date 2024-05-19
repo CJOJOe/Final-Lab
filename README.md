@@ -1,9 +1,9 @@
-1. Link ของ Github ที่เก็บ repo : 
+1. Link ของ Github ที่เก็บ repo: 
 Answer: https://github.com/CJOJOe/Final-Lab
 
-2. Code ของ Web ที่เขียนขึ้น
-3. YAML ไฟล์ของ Dockerfile ที่ใช้สร้างต่างๆ
-4. YAML ไฟล์ของ K8s ที่ใช้ deployment, volume และ Service
+3. Code ของ Web ที่เขียนขึ้น
+4. YAML ไฟล์ของ Dockerfile ที่ใช้สร้างต่างๆ
+5. YAML ไฟล์ของ K8s ที่ใช้ deployment, volume และ Service
 
 Answer: https://hub.docker.com/layers/cjjoe/final-lab/rev3/images/sha256-e492242c7a6348babef4d63fdf9eacac2d252433d3f53e9ca2cbb94860daa194?context=repo 
 File: Final-lab.zip
